@@ -1,0 +1,2 @@
+
+                counters = [maxcount] * N
